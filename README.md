@@ -8,7 +8,7 @@
 
 [Тест-кейсы.pdf](https://github.com/user-attachments/files/20012150/G10-2025-05-02.-.pdf)
 
-Отчет о дефетках:
+Отчет о дефектах:
 [Ссылка на документ](https://artsiomrusau.youtrack.cloud/issue/G10-368/Testing-Documentation-Ionov-Nikita)
 
 [Отчет о дефектах.xlsx](https://github.com/user-attachments/files/20047743/Issues.1.xlsx)
