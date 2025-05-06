@@ -11,7 +11,8 @@
 Отчет о дефектах:
 [Ссылка на документ](https://artsiomrusau.youtrack.cloud/issue/G10-368/Testing-Documentation-Ionov-Nikita)
 
-[Отчет о дефектах.xlsx](https://github.com/user-attachments/files/20047743/Issues.1.xlsx)
+[Отчет о дефектах.xlsx](https://github.com/user-attachments/files/20069080/Issues.2.xlsx)
+
 
 [Ссылка на документ](https://app.qase.io/run/G10/dashboard/39)
 
